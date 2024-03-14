@@ -1,0 +1,10 @@
+criando api: npm i json-server -g
+json-server --watch api-artists/artists.json --port 3000
+
+react:
+
+npx create-react-app spotify-react
+
+cd spotify-react
+code .
+npm start
